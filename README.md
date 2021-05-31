@@ -10,4 +10,7 @@
 | Tagging Scheme | IOB,BIOES |
 
 ## Citation
+
+Please cite the following paper if you use our dataset in your research 
+
  - Karim, Redwanul & Islam, M. A. & Simanto, Sazid & Chowdhury, Saif & Roy, Kalyan & Neon, Adnan & Hasan, Md & Firoze, Adnan & Rahman, Mohammad. (2019). A step towards information extraction: Named entity recognition in Bangla using deep learning. Journal of Intelligent & Fuzzy Systems. 37. 1-13. 10.3233/JIFS-179349. 
